@@ -3,4 +3,8 @@ Git is very fast
 Git is awesome and comprehensive
 Git is the top version control
 Git demo version running
+<<<<<<< HEAD
 must be merge
+=======
+must be pull
+>>>>>>> 81889ab5b4cadb978056a13071b9cafeb23d675b
