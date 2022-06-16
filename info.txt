@@ -2,4 +2,3 @@ Git is easy
 Git is very fast
 Git is awesome and comprehensive
 Git is the top version control
-Demo commit
