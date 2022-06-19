@@ -7,3 +7,4 @@ must be merge
 must be pull
 Git branch demo
 Git branch again second time
+To protect the demo rule
